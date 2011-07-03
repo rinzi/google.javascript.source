@@ -1,3 +1,4 @@
+< script >
 (function() { ! google.nocsixjs && google.timers && google.timers.load.t && (google.timers.load.t.xjses = (new Date).getTime());
 })();
  (function() {
@@ -11503,3 +11504,4 @@
         0)
     };
 })();
+</script >
